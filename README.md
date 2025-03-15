@@ -1,6 +1,5 @@
 
 Project PDF Graphic Overview:
-
 [user_manual.pdf](https://github.com/user-attachments/files/19263794/user_manual.pdf)
 
 More In-Depth System Documentation:  
