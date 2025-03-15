@@ -1,0 +1,1 @@
+For whatever reason excel may aggressively modify the data when opening with it, for example the dates format, so please do not open the csv file with excel. Alternatively, you could hard copy the file and then open the copied file in excel

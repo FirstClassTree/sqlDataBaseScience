@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore database credentials and sensitive information
+documentation/mysql_and_user_password.txt
+documentation/name_and_id.txt
+
+# Ignore other sensitive or unnecessary files
+*.log
+*.sqlite3
